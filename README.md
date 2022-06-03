@@ -17,6 +17,6 @@ Here are some ideas to get you started:
  ⚡ Fun fact: cats are superior;)
 
 
-[![VishnupriyaThammina's github stats](https://github-readme-stats.vercel.app/api?username=VishnupriyaThammina&hide=prs,contrib,issues&show_icons=true&theme=radical)](https://github.com/VishnupriyaThammina/github-readme-stats)
+[![VishnupriyaThammina's github stats](https://github-readme-stats.vercel.app/api?username=VishnupriyaThammina&hide=contribu,prs,stars,issues&show_icons=true&theme=radical)](https://github.com/VishnupriyaThammina/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnupriyaThammina&layout=compact&theme=highcontrast)](https://github.com/VishnupriyaThammina/github-readme-stats)
