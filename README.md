@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on projects<br><br> I’m currently learning full stack dev<br><br>I am a frontend developer<br><br>transitioning towards full stack is my target<br><br>I am constantly trying to get better at my tech stack 
+ I’m currently working on projects<br><br> I’m learning full stack dev<br><br>I am a frontend developer<br><br>transitioning towards full stack is my target<br><br>I am constantly trying to get better at my tech stack 
 
 
 # 💻 Tech Stack:
