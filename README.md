@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on projects<br><br>I am a frontend developer<br>I am constantly trying to get better 
+ I’m currently working on projects<br> a frontend developer<br> constantly trying to get better 
 
 
 # 💻 Tech Stack:
