@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on projects<br> a frontend developer<br> constantly trying to get better 
+ I’m currently working on projects<br>Full Stack dev<br> software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification
 
 
 # 💻 Tech Stack:
