@@ -25,7 +25,7 @@ I'm a Full Stack Developer dedicated to crafting robust, extensible software sol
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=VishnupriyaThammina&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnupriyaThammina&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## Life Philosophy 🌟
+## Um 🌟
 
 I embrace the philosophy that "Software entities should be open for extension, but closed for modification."
 
