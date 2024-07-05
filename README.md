@@ -1,6 +1,7 @@
 # Hello, I'm Vishnupriya Thammina 👋
 
 I'm a Full Stack Developer dedicated to crafting robust, extensible software solutions.
+and currently training in web and network pen testing 
 
 ## Tech Stack 🛠️
 
