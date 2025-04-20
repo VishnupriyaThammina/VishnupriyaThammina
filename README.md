@@ -1,9 +1,12 @@
-Hello, I'm Vishnupriya Thammina 
+Hello, I'm Vishnupriya  
 
-Full time Pen tester, learning active directory network pen testing |
-Building Web apps in MERN Stack is my brain food  
-IIITS 2024
+Full time Security Analyst at Securin :
+Areas of work:
+- Active Directory PT
+- Network PT
+- Web app PT
 
-
-
+Learning: Android PT and ML
+Hobbies: making vulnerable web apps in mern, watching period dramas, learning classical music and brain rotting 
+Motivation: It's high time, We expand our skill set!!! 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
